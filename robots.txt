@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://mistercodecat.github.io/currency-bot-landing/sitemap.xml
